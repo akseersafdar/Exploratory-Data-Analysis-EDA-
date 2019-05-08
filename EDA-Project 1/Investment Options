@@ -1,0 +1,20 @@
+Project Brief:
+Our company wants to make investment in few companies and we want to have a look at the global investment trends so 
+that we can make the investment decision wisely. Also we have to keep in mind some constraints while making the investment.
+
+1. The investment should be between 5 to 15 milliion USD per round of investment.
+
+2. The investment should be in only English speaking countries.
+
+Data Source: The Data has been taken from crunchbase.com
+
+
+Goals of Data Analysis:
+
+1. Investment Type Anslysis: Comparing typical investment amounts in venture, seed, angel, private equity etc
+
+2. Country Analysis: We have to identify the countries which are investors' favorites and they have invested heavily 
+in those countries.
+
+3. Sector Analysis: Understanding the distribution of investment among the main sectors. The 2 files 'companies' and 
+'rounds2' have numerous sub-sector names. Hence we will have to map each sub-sector to it's main sector.
