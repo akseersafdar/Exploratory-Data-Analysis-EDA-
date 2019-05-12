@@ -1,0 +1,11 @@
+
+Loan Data Analysis
+
+Problem description
+When a loan application is received it is either approved or declined based on a certain criteria. 
+We have to be careful during analysis of such loan applications as if we lend to risky customers who are
+likely to default then it could have negative impact on bussiness. Also if we decline a loan to a potential 
+customer who could have paid back the loan then it is a loss of bussiness as well.
+
+
+In this project we will first clean the data then analyse it and give some recommendations based on our findings.
